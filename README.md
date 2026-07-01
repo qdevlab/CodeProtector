@@ -1,7 +1,5 @@
 # CodeProtector
 
-***
-
 LLVM-обфускатор для защиты кода и данных от реверс-инжиниринга.
 
 LLVM obfuscator for protecting code and data against reverse engineering.
